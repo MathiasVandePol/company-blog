@@ -33,7 +33,7 @@ workspace:
               fi
               
               2. Clone the project
-              echo "$CLONE_TO is empty... Cloning"
+              echo "$CLONE_TO is empty... Cloning $GIT_REMOTE"
               git clone $GIT_REMOTE $CLONE_TO
 
             else
