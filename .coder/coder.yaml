@@ -20,7 +20,7 @@ workspace:
           command: /coder/configure_nvm.sh
         - name: "Clone the git repository, if it doesn't exist"
           env:
-            GIT_REMOTE: git@github.com:MathiasVandePol/company-blog.git
+            GIT_REMOTE: https://github.com/MathiasVandePol/company-blog.git
             CLONE_TO: /home/coder/company-blog
           command: |
             # Check if the project directory already exists 
