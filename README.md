@@ -4,7 +4,7 @@ An example Javascript project that is configured for development in Coder.
 
 ![Screenshot of blog running in Coder](static/screenshot.png)
 
-[![Open in Coder](https://cdn.coder.com/embed-button.svg)](https://dev.coding.pics/wac/build?template_oauth_service=github&template_url=https://github.com/bpmct/company-blog&template_ref=main&template_filepath=.coder/coder.yaml)
+[![Open in Coder](https://cdn.coder.com/embed-button.svg)](http://codermathias.duckdns.org/wac/build?template_oauth_service=github&template_url=https://github.com/MathiasVandePol/company-blog&template_ref=main&template_filepath=.coder/coder.yaml)
 
 Folder structure includes:
 
